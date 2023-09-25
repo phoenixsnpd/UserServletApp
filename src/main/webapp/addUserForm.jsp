@@ -19,6 +19,6 @@
     <input type="submit" value="Add">
 </form>
 <br>
-<a href="users">User List</a>
+<a href="users">User list</a>
 </body>
 </html>
